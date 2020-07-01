@@ -10,3 +10,6 @@ Basicamente quando o arquivo compilado for executado, deverá ser exibido: `Hell
 Se tudo estiver funcionando de forma adequada, gere uma imagem docker que quando executada deva rodar o programa criado em Golang.
 
 
+## 🤠 Getting Started
+
+Utilize através do docker executando `$ docker pull luuck4s/fullcycle-desafio-docker`, e em seguida `$ docker run luuck4s/fullcycle-desafio-docker`

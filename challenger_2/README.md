@@ -13,4 +13,7 @@ Quando alguém executar: **docker run -p 3000:3000 seuuser/suaimagem**, a aplica
 
 
 
+## 🤠 Getting Started
+
+Execute dentro da pasta do projeto `$ buffalo dev` ou utilize através do docker executando `$ docker pull luuck4s/fullcycle-desafio-buffalo`, e em seguida `$ docker run -p 3000:3000 luuck4s/fullcycle-desafio-buffalo`
 
