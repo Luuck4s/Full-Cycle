@@ -9,7 +9,7 @@
 
 <p  align="center">
 <a  href="#telescope-projeto">🔭 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
-<a  href="#-desafios">💜 Desafios</a>&nbsp;&nbsp;&nbsp;
+<a  href="#fire-desafios">💜 Desafios</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 

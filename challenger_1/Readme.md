@@ -1,9 +1,9 @@
 <p  align="center">
-<img  alt="banner" src="../.github/docker.png"  width="25%">
+<img  alt="banner" src="../.github/golang.png"  width="25%">
 </p> 
 
 
-## :whale2: Desafio Golang
+## :cyclone: Desafio Golang
 
 O primeiro desafio dessa maratona consiste em criar um "Hello Full Cycle" utilizando a linguagem Golang.  
 Basicamente quando o arquivo compilado for executado, deverá ser exibido: `Hello Full Cycle`  
