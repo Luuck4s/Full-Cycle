@@ -3,7 +3,7 @@
 </p> 
 
 <h4  align="center">
-	🏃‍♂ Maratona Full Cycle 
+	💅 Maratona Full Cycle 
 </h4>
 
 
@@ -20,8 +20,9 @@ A **Maratona Full Cycle 3.0** foi um evento online realizado pela instituição 
 # :fire: Desafios 
 
 
-### [:cyclone: Desafio GoLang](https://github.com/Luuck4s/full-cycle/tree/main/challenger-1)
+### [:cyclone: Desafio GoLang](https://github.com/Luuck4s/full-cycle/tree/master/challenger_1)
 
+### [:water_buffalo: Desafio Buffalo](https://github.com/Luuck4s/full-cycle/tree/master/challenger-2)
 
 --- 
 
