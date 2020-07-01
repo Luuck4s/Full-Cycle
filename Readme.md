@@ -20,9 +20,11 @@ A **Maratona Full Cycle 3.0** foi um evento online realizado pela instituição 
 # :fire: Desafios 
 
 
-### [:cyclone: Desafio GoLang](https://github.com/Luuck4s/full-cycle/tree/master/challenger_1)
+### [:cyclone: Desafio GoLang](https://github.com/Luuck4s/Full-Cycle/tree/master/challenger_1)
 
-### [:water_buffalo: Desafio Buffalo](https://github.com/Luuck4s/full-cycle/tree/master/challenger_2)
+### [:water_buffalo: Desafio Buffalo](https://github.com/Luuck4s/Full-Cycle/tree/master/challenger_2)
+
+### [:zap: Desafio Serverless](https://github.com/Luuck4s/Full-Cycle/tree/master/challenger_3)
 
 --- 
 
