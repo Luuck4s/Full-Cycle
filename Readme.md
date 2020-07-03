@@ -28,6 +28,8 @@ A **Maratona Full Cycle 3.0** foi um evento online realizado pela instituição 
 
 ### [:snake: Desafio Django e SQLite](https://github.com/Luuck4s/Full-Cycle/tree/master/challenger_4)
 
+### [:cat: Desafio Nest.js e SQLite](https://github.com/Luuck4s/Full-Cycle/tree/master/challenger-5)
+
 --- 
 
 <h5 align="center"> 🚀 Maratona FullCycle  by Luuck4s 💜 </h5>

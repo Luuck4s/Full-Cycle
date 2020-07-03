@@ -1,0 +1,26 @@
+<p  align="center">
+<img  alt="banner"  src="../.github/nest.svg"  width="25%">
+</p>
+
+  
+  
+## :cat: Desafio Nest.js e SQLite
+
+
+
+Esse será o desafio que fará você ter contato com um dos frameworks javascript que mais cresce no mercado. O Nest.js.  
+Nesse desafio você terá que criar, utilizando o Nest.js, uma simples aplicação que listará o nome de todas as lives da nossa Maratona Full Cycle 3.0, sendo que os dados devem vir diretamente de um banco de dados SQLite.  
+  
+Quando alguém acessar a aplicação através do endpoint **/maratona**, pela porta **3000**, a listagem deverá aparecer.  
+  
+Para entregar o desafio, gere uma imagem docker, faça o push para sua conta do DockerHub e informe a URL da imagem logo abaixo.  
+Antes de submeter o desafio, teste se tudo está funcionando executando o comando:  
+**docker run -p 3000:3000 seu-usuario/sua-imagem-docker**
+  
+  
+  
+
+## 🤠 Getting Started
+
+  
+Utilize através do docker executando `$ docker pull luuck4s/fullcycle-desafio-nest-sqlite`, e em seguida `$ docker run -p 3000:3000 luuck4s/fullcycle-desafio-nest-sqlite`
